@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Socket.IO chat</title>
+    <style>
+      /* Styles Here */
+      ul { list-style-type: none; margin: 0; padding: 0; }
+      li { padding: 8px; margin-bottom: 10px; background-color: #f1f1f1; }
+      #messages { height: 300px; overflow-y: scroll; width: 50%; margin: 0 auto; }
+      #form { display: flex; width: 50%; margin: 0 auto; }
+      #input { flex-grow: 1; }
+      body { display: flex; flex-direction: column; align-items: center; }
+    </style>
+  </head>
+  <body>
+    <ul id="messages"></ul>
+    <form id="form" action="">
+      <input id="input" autocomplete="off" /><button>Send</button>
+    </form>
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="/script.js"></script>
+  </body>
+</html>

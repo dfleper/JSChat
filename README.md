@@ -13,6 +13,8 @@ http://localhost:3000
 ```
 ## Video / Video
 
+https://github.com/dfleper/JSChat/assets/124105822/393f3c93-8443-4379-b90b-c576a0efa4ac
+
 ## Requirements / Requisitos
 #### 🛠 [Visual Studio Code](https://code.visualstudio.com/) 
 #### 🛠 [Node](https://nodejs.org/) 

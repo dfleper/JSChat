@@ -3,6 +3,9 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/dfleper/JSChat?logo=github)
 ![GitHub last commit](https://img.shields.io/github/last-commit/dfleper/JSChat?color=blue&label=last-commit&logo=github&logoColor=white)
 
+- JavaScript chat test with Node.js + Express + Socket.IO
+- Prueba de chat en JavaScript con Node.js + Express + Socket.IO
+
 ## Start Server / Iniciar Servidor
 ```
 node server.js
